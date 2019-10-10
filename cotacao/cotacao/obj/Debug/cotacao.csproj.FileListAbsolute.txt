@@ -1,0 +1,12 @@
+C:\Users\eric.mpereira\source\repos\cotacao\cotacao\bin\Debug\cotacao.exe.config
+C:\Users\eric.mpereira\source\repos\cotacao\cotacao\bin\Debug\cotacao.exe
+C:\Users\eric.mpereira\source\repos\cotacao\cotacao\bin\Debug\cotacao.pdb
+C:\Users\eric.mpereira\source\repos\cotacao\cotacao\obj\Debug\cotacao.csprojAssemblyReference.cache
+C:\Users\eric.mpereira\source\repos\cotacao\cotacao\obj\Debug\cotacao.Form1.resources
+C:\Users\eric.mpereira\source\repos\cotacao\cotacao\obj\Debug\cotacao.Properties.Resources.resources
+C:\Users\eric.mpereira\source\repos\cotacao\cotacao\obj\Debug\cotacao.csproj.GenerateResource.cache
+C:\Users\eric.mpereira\source\repos\cotacao\cotacao\obj\Debug\cotacao.csproj.CoreCompileInputs.cache
+C:\Users\eric.mpereira\source\repos\cotacao\cotacao\obj\Debug\cotacao.exe
+C:\Users\eric.mpereira\source\repos\cotacao\cotacao\obj\Debug\cotacao.pdb
+C:\Users\eric.mpereira\source\repos\cotacao\cotacao\obj\Debug\cotacao.Form2.resources
+C:\Users\eric.mpereira\source\repos\cotacao\cotacao\obj\Debug\cotacao.Form3.resources
